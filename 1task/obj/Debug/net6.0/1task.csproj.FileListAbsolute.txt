@@ -1,0 +1,15 @@
+C:\Users\Dom\Desktop\Homework\1task\bin\Debug\net6.0\1task.exe
+C:\Users\Dom\Desktop\Homework\1task\bin\Debug\net6.0\1task.deps.json
+C:\Users\Dom\Desktop\Homework\1task\bin\Debug\net6.0\1task.runtimeconfig.json
+C:\Users\Dom\Desktop\Homework\1task\bin\Debug\net6.0\1task.dll
+C:\Users\Dom\Desktop\Homework\1task\bin\Debug\net6.0\1task.pdb
+C:\Users\Dom\Desktop\Homework\1task\obj\Debug\net6.0\1task.csproj.AssemblyReference.cache
+C:\Users\Dom\Desktop\Homework\1task\obj\Debug\net6.0\1task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dom\Desktop\Homework\1task\obj\Debug\net6.0\1task.AssemblyInfoInputs.cache
+C:\Users\Dom\Desktop\Homework\1task\obj\Debug\net6.0\1task.AssemblyInfo.cs
+C:\Users\Dom\Desktop\Homework\1task\obj\Debug\net6.0\1task.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\Homework\1task\obj\Debug\net6.0\1task.dll
+C:\Users\Dom\Desktop\Homework\1task\obj\Debug\net6.0\refint\1task.dll
+C:\Users\Dom\Desktop\Homework\1task\obj\Debug\net6.0\1task.pdb
+C:\Users\Dom\Desktop\Homework\1task\obj\Debug\net6.0\1task.genruntimeconfig.cache
+C:\Users\Dom\Desktop\Homework\1task\obj\Debug\net6.0\ref\1task.dll
